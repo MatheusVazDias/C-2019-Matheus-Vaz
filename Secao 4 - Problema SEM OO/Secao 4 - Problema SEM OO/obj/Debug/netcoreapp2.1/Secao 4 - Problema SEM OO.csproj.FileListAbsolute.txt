@@ -1,0 +1,10 @@
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.dll
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.pdb
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.dll
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema SEM OO\Secao 4 - Problema SEM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema SEM OO.pdb

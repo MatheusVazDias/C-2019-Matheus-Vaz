@@ -1,0 +1,11 @@
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\bin\Debug\netcoreapp2.1\Triangulo com Metodo.deps.json
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\bin\Debug\netcoreapp2.1\Triangulo com Metodo.runtimeconfig.json
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\bin\Debug\netcoreapp2.1\Triangulo com Metodo.runtimeconfig.dev.json
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\bin\Debug\netcoreapp2.1\Triangulo com Metodo.dll
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\bin\Debug\netcoreapp2.1\Triangulo com Metodo.pdb
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\obj\Debug\netcoreapp2.1\Triangulo com Metodo.csprojAssemblyReference.cache
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\obj\Debug\netcoreapp2.1\Triangulo com Metodo.csproj.CoreCompileInputs.cache
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\obj\Debug\netcoreapp2.1\Triangulo com Metodo.AssemblyInfoInputs.cache
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\obj\Debug\netcoreapp2.1\Triangulo com Metodo.AssemblyInfo.cs
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\obj\Debug\netcoreapp2.1\Triangulo com Metodo.dll
+C:\Users\Estação 3\source\repos\Triangulo com Metodo\Triangulo com Metodo\obj\Debug\netcoreapp2.1\Triangulo com Metodo.pdb

@@ -1,0 +1,10 @@
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\obj\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\obj\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\obj\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\bin\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.deps.json
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\bin\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\bin\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\bin\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.dll
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\bin\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.pdb
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\obj\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.dll
+C:\temp\C# 2019 - Matheus Vaz\FIXAÇÃO - Exercicio 1\FIXAÇÃO - Exercicio 1\obj\Debug\netcoreapp2.1\FIXAÇÃO - Exercicio 1.pdb

@@ -1,0 +1,11 @@
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp2.1\Operadores de atribuição.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp2.1\Operadores de atribuição.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp2.1\Operadores de atribuição.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp2.1\Operadores de atribuição.dll
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\bin\Debug\netcoreapp2.1\Operadores de atribuição.pdb
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp2.1\Operadores de atribuição.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp2.1\Operadores de atribuição.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp2.1\Operadores de atribuição.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp2.1\Operadores de atribuição.dll
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp2.1\Operadores de atribuição.pdb
+C:\temp\C# 2019 - Matheus Vaz\Operadores de atribuição\Operadores de atribuição\obj\Debug\netcoreapp2.1\Operadores de atribuição.csprojAssemblyReference.cache

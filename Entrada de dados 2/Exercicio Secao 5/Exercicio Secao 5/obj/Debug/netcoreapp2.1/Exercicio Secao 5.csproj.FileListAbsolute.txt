@@ -1,0 +1,11 @@
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\obj\Debug\netcoreapp2.1\Exercicio Secao 5.csprojAssemblyReference.cache
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\obj\Debug\netcoreapp2.1\Exercicio Secao 5.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\obj\Debug\netcoreapp2.1\Exercicio Secao 5.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\obj\Debug\netcoreapp2.1\Exercicio Secao 5.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\bin\Debug\netcoreapp2.1\Exercicio Secao 5.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\bin\Debug\netcoreapp2.1\Exercicio Secao 5.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\bin\Debug\netcoreapp2.1\Exercicio Secao 5.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\bin\Debug\netcoreapp2.1\Exercicio Secao 5.dll
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\bin\Debug\netcoreapp2.1\Exercicio Secao 5.pdb
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\obj\Debug\netcoreapp2.1\Exercicio Secao 5.dll
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados 2\Exercicio Secao 5\Exercicio Secao 5\obj\Debug\netcoreapp2.1\Exercicio Secao 5.pdb

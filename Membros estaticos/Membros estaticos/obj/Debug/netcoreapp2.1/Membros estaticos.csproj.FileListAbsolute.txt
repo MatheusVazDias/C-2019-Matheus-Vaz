@@ -1,0 +1,11 @@
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp2.1\Membros estaticos.deps.json
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp2.1\Membros estaticos.runtimeconfig.json
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp2.1\Membros estaticos.runtimeconfig.dev.json
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp2.1\Membros estaticos.dll
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\bin\Debug\netcoreapp2.1\Membros estaticos.pdb
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp2.1\Membros estaticos.csprojAssemblyReference.cache
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp2.1\Membros estaticos.csproj.CoreCompileInputs.cache
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp2.1\Membros estaticos.AssemblyInfoInputs.cache
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp2.1\Membros estaticos.AssemblyInfo.cs
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp2.1\Membros estaticos.dll
+C:\Users\Estação 3\source\repos\Membros estaticos\Membros estaticos\obj\Debug\netcoreapp2.1\Membros estaticos.pdb

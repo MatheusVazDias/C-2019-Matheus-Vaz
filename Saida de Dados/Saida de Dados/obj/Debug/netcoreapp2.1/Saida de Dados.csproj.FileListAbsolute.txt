@@ -1,0 +1,10 @@
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\bin\Debug\netcoreapp2.1\Saida de Dados.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\bin\Debug\netcoreapp2.1\Saida de Dados.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\bin\Debug\netcoreapp2.1\Saida de Dados.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\bin\Debug\netcoreapp2.1\Saida de Dados.dll
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\bin\Debug\netcoreapp2.1\Saida de Dados.pdb
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\obj\Debug\netcoreapp2.1\Saida de Dados.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\obj\Debug\netcoreapp2.1\Saida de Dados.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\obj\Debug\netcoreapp2.1\Saida de Dados.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\obj\Debug\netcoreapp2.1\Saida de Dados.dll
+C:\temp\C# 2019 - Matheus Vaz\Saida de Dados\Saida de Dados\obj\Debug\netcoreapp2.1\Saida de Dados.pdb

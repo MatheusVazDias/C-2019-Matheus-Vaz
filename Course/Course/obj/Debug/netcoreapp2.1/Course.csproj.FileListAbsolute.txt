@@ -1,0 +1,11 @@
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\bin\Debug\netcoreapp2.1\Course.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\bin\Debug\netcoreapp2.1\Course.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\bin\Debug\netcoreapp2.1\Course.dll
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\bin\Debug\netcoreapp2.1\Course.pdb
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\obj\Debug\netcoreapp2.1\Course.csprojAssemblyReference.cache
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\obj\Debug\netcoreapp2.1\Course.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\obj\Debug\netcoreapp2.1\Course.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\obj\Debug\netcoreapp2.1\Course.dll
+C:\temp\C# 2019 - Matheus Vaz\Course\Course\obj\Debug\netcoreapp2.1\Course.pdb

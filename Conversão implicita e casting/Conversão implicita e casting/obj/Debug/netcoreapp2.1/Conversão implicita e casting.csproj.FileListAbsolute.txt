@@ -1,0 +1,11 @@
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\bin\Debug\netcoreapp2.1\Conversão implicita e casting.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\bin\Debug\netcoreapp2.1\Conversão implicita e casting.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\bin\Debug\netcoreapp2.1\Conversão implicita e casting.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\bin\Debug\netcoreapp2.1\Conversão implicita e casting.dll
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\bin\Debug\netcoreapp2.1\Conversão implicita e casting.pdb
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\obj\Debug\netcoreapp2.1\Conversão implicita e casting.csprojAssemblyReference.cache
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\obj\Debug\netcoreapp2.1\Conversão implicita e casting.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\obj\Debug\netcoreapp2.1\Conversão implicita e casting.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\obj\Debug\netcoreapp2.1\Conversão implicita e casting.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\obj\Debug\netcoreapp2.1\Conversão implicita e casting.dll
+C:\temp\C# 2019 - Matheus Vaz\Conversão implicita e casting\Conversão implicita e casting\obj\Debug\netcoreapp2.1\Conversão implicita e casting.pdb

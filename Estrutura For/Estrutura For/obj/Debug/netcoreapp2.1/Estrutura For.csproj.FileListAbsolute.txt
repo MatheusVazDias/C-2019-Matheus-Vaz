@@ -1,0 +1,11 @@
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\bin\Debug\netcoreapp2.1\Estrutura For.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\bin\Debug\netcoreapp2.1\Estrutura For.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\bin\Debug\netcoreapp2.1\Estrutura For.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\bin\Debug\netcoreapp2.1\Estrutura For.dll
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\bin\Debug\netcoreapp2.1\Estrutura For.pdb
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\obj\Debug\netcoreapp2.1\Estrutura For.csprojAssemblyReference.cache
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\obj\Debug\netcoreapp2.1\Estrutura For.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\obj\Debug\netcoreapp2.1\Estrutura For.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\obj\Debug\netcoreapp2.1\Estrutura For.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\obj\Debug\netcoreapp2.1\Estrutura For.dll
+C:\temp\C# 2019 - Matheus Vaz\Estrutura For\Estrutura For\obj\Debug\netcoreapp2.1\Estrutura For.pdb

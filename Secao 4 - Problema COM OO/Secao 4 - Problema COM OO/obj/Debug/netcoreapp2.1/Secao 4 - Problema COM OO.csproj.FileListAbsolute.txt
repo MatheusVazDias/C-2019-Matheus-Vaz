@@ -1,0 +1,10 @@
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.dll
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\bin\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.pdb
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.dll
+C:\temp\C# 2019 - Matheus Vaz\Secao 4 - Problema COM OO\Secao 4 - Problema COM OO\obj\Debug\netcoreapp2.1\Secao 4 - Problema COM OO.pdb

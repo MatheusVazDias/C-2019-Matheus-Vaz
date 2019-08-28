@@ -1,0 +1,11 @@
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\bin\Debug\netcoreapp2.1\Operadores aritméticos.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\bin\Debug\netcoreapp2.1\Operadores aritméticos.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\bin\Debug\netcoreapp2.1\Operadores aritméticos.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\bin\Debug\netcoreapp2.1\Operadores aritméticos.dll
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\bin\Debug\netcoreapp2.1\Operadores aritméticos.pdb
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\obj\Debug\netcoreapp2.1\Operadores aritméticos.csprojAssemblyReference.cache
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\obj\Debug\netcoreapp2.1\Operadores aritméticos.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\obj\Debug\netcoreapp2.1\Operadores aritméticos.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\obj\Debug\netcoreapp2.1\Operadores aritméticos.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\obj\Debug\netcoreapp2.1\Operadores aritméticos.dll
+C:\temp\C# 2019 - Matheus Vaz\Operadores aritméticos\Operadores aritméticos\obj\Debug\netcoreapp2.1\Operadores aritméticos.pdb

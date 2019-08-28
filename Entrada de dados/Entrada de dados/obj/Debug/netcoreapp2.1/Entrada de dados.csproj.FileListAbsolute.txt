@@ -1,0 +1,11 @@
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp2.1\Entrada de dados.deps.json
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp2.1\Entrada de dados.runtimeconfig.json
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp2.1\Entrada de dados.runtimeconfig.dev.json
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp2.1\Entrada de dados.dll
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\bin\Debug\netcoreapp2.1\Entrada de dados.pdb
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp2.1\Entrada de dados.csproj.CoreCompileInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp2.1\Entrada de dados.AssemblyInfoInputs.cache
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp2.1\Entrada de dados.AssemblyInfo.cs
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp2.1\Entrada de dados.dll
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp2.1\Entrada de dados.pdb
+C:\temp\C# 2019 - Matheus Vaz\Entrada de dados\Entrada de dados\obj\Debug\netcoreapp2.1\Entrada de dados.csprojAssemblyReference.cache
